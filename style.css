@@ -21,7 +21,7 @@ body {
 	flex-direction: column;
 	height: 100vh;
 	background:
-		no-repeat url(/images/bg-pattern-top-mobile.svg);
+		no-repeat url(images/bg-pattern-top-mobile.svg);
 }
 
 .description {
@@ -172,8 +172,8 @@ body {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		max-height: 100vh;
-		background: no-repeat 0 0 / 50% url(/images/bg-pattern-top-desktop.svg),
-			bottom 0 right 0 / 90% no-repeat url(/images/bg-pattern-bottom-desktop.svg);
+		background: no-repeat 0 0 / 50% url(images/bg-pattern-top-desktop.svg),
+			bottom 0 right 0 / 90% no-repeat url(images/bg-pattern-bottom-desktop.svg);
 	}
 
 	.description {
